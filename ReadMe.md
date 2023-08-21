@@ -1,4 +1,6 @@
-# Topaz Double — a double-height recreation of Amiga’s iconic Topaz typeface
+# Topaz Double
+
+** Double-height recreation of Amiga’s iconic Topaz typeface.**
 
 This is an Amiga-native recreation of one of the most beautiful and readable 8×8 pixel typefaces ever created: Topaz — now rendered in pixel-perfect 8×16px for modern resolutions.
 
@@ -10,12 +12,25 @@ This typeface is ideal for “modern” resolutions like 800×600, 1024×768, cl
 
 Two typefaces are included:
 
-* **Topaz Double Sans** — A double-height recreation of the Topaz variant used in AmigaOS 2 and 3.
-* **Topaz Double Serif** — A double-height recreation of the Topaz variant used in AmigaOS 1.2 and 1.3.
+## Topaz Double Sans
+
+A double-height recreation of the Topaz variant used in AmigaOS 2 and 3.
+
+![Topaz Double Sans](Images/Topaz Double Sans.png)
+
+## Topaz Double Serif
+
+A double-height recreation of the Topaz variant used in AmigaOS 1.2 and 1.3.
+
+![Topaz Double Sans](Images/Topaz Double Sans.png)
+
+## Colophon
 
 The typeface was lovingly recreated by hand, since there are no obvious ways to easily scale an Amiga font file to be twice the height, and I didn’t feel like reverse engineering the Amiga font file format.
+
+The typeface was made by using the excellent [modernized version of the Amiga Font Editor](http://bax.comlab.uni-rostock.de/en/projects/fonted/).
 
 If you find any errors in the conversion, file an issue at: 
 https://github.com/amigavision/DoubleTopaz
 
-— Alex Limi · https://limi.net
+*—Alex Limi* · https://limi.net
