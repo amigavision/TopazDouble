@@ -32,11 +32,15 @@ Copy the contents of the `Fonts` directory to your `FONTS:` assign on the Amiga.
 
 The typeface was lovingly recreated by hand, since there are no obvious ways to easily scale an Amiga font file to be twice the height, and I didn’t feel like reverse engineering the Amiga font file format.
 
+<img src="Images/BobBurns.gif">
+
+Original typeface design by [Bob "Kodiak" Burns].
+
 The typeface was made by using the excellent [modernized version of the Amiga Font Editor](http://bax.comlab.uni-rostock.de/en/projects/fonted/) by Henryk Richter.
 
 If you find any errors in the conversion, file an issue in the [issue tracker].
 
-
 *—Alex Limi* · https://limi.net
 
 [issue tracker]:https://github.com/amigavision/DoubleTopaz/issues
+[Bob "Kodiak" Burns]:(https://youtu.be/p_A_ZrDaF9w?si=EQqHPoH8kRJ-I-Rq)
