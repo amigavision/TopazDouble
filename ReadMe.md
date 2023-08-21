@@ -2,7 +2,7 @@
 
 This is an Amiga-native recreation of one of the most beautiful and readable 8×8 pixel typefaces ever created: Topaz — now rendered in pixel-perfect 8×16px for modern resolutions.
 
-Out of the box, Amiga used a tall (1:2) resolution — 640×200 (NTSC) or 640×256 (PAL) -- which means that the standard Topaz typeface/font would be half-height if you were using it with resolutions with a pixel aspect ratio closer to 1:1.
+Out of the box, Amiga used a tall (2:1) resolution — 640×200 (NTSC) or 640×256 (PAL) -- which means that the standard Topaz typeface/font would be half-height if you were using it with resolutions with a pixel aspect ratio closer to 1:1.
 
 For some reason, there has never been an Amiga-native version of a double-height Topaz (at least not that I could find) for use with resolutions with a square (1:1) pixel ratio, so I made one.
 
