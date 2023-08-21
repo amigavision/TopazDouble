@@ -16,6 +16,6 @@ Two typefaces are included:
 The typeface was lovingly recreated by hand, since there are no obvious ways to easily scale an Amiga font file to be twice the height, and I didn’t feel like reverse engineering the Amiga font file format.
 
 If you find any errors in the conversion, file an issue at: 
-http://github.com/amigavision/DoubleTopaz
+https://github.com/amigavision/DoubleTopaz
 
--- Alex Limi, http://limi.net
+-- Alex Limi, https://limi.net
