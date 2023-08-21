@@ -18,4 +18,4 @@ The typeface was lovingly recreated by hand, since there are no obvious ways to 
 If you find any errors in the conversion, file an issue at: 
 https://github.com/amigavision/DoubleTopaz
 
--- Alex Limi, https://limi.net
+— Alex Limi · https://limi.net
