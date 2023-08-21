@@ -28,7 +28,7 @@ A double-height recreation of the Topaz variant used in AmigaOS 1.2 and 1.3.
 
 The typeface was lovingly recreated by hand, since there are no obvious ways to easily scale an Amiga font file to be twice the height, and I didn’t feel like reverse engineering the Amiga font file format.
 
-The typeface was made by using the excellent [modernized version of the Amiga Font Editor](http://bax.comlab.uni-rostock.de/en/projects/fonted/).
+The typeface was made by using the excellent [modernized version of the Amiga Font Editor](http://bax.comlab.uni-rostock.de/en/projects/fonted/) by Henryk Richter.
 
 If you find any errors in the conversion, file an issue at: 
 https://github.com/amigavision/DoubleTopaz
