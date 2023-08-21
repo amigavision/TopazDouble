@@ -1,4 +1,4 @@
-# Topaz Double — a double-height recreation of Amiga’ iconic Topaz typeface
+# Topaz Double — a double-height recreation of Amiga’s iconic Topaz typeface
 
 This is an Amiga-native recreation of one of the most beautiful and readable 8×8 pixel typefaces ever created: Topaz, now rendered in pixel-perfect 8×16px.
 
