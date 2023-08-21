@@ -34,7 +34,9 @@ The typeface was lovingly recreated by hand, since there are no obvious ways to 
 
 The typeface was made by using the excellent [modernized version of the Amiga Font Editor](http://bax.comlab.uni-rostock.de/en/projects/fonted/) by Henryk Richter.
 
-If you find any errors in the conversion, file an issue at: 
-https://github.com/amigavision/DoubleTopaz
+If you find any errors in the conversion, file an issue in the [issue tracker].
+
 
 *—Alex Limi* · https://limi.net
+
+[issue tracker]:https://github.com/amigavision/DoubleTopaz/issues
