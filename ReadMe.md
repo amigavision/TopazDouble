@@ -34,7 +34,7 @@ The typeface was lovingly recreated by hand, since there are no obvious ways to 
 
 <img src="Images/BobBurns.gif">
 
-Original typeface design by [Bob Burns].
+Original typeface design by [Bob Burns] (AmiWest 2016 talk).
 
 The typeface was made by using the excellent [modernized version of the Amiga Font Editor](http://bax.comlab.uni-rostock.de/en/projects/fonted/) by Henryk Richter.
 
@@ -43,4 +43,4 @@ If you find any errors in the conversion, file an issue in the [issue tracker].
 *—Alex Limi* · https://limi.net
 
 [issue tracker]:https://github.com/amigavision/DoubleTopaz/issues
-[Bob Burns]:(https://youtu.be/p_A_ZrDaF9w)
+[Bob Burns]:https://youtu.be/p_A_ZrDaF9w
