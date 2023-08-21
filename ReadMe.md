@@ -24,6 +24,10 @@ A double-height recreation of the Topaz variant used in AmigaOS 1.2 and 1.3.
 
 <img src="Images/Topaz Double Serif.png">
 
+## Installation
+
+Copy the contents of the `Fonts` directory to your `FONTS:` assign on the Amiga.
+
 ## Colophon
 
 The typeface was lovingly recreated by hand, since there are no obvious ways to easily scale an Amiga font file to be twice the height, and I didn’t feel like reverse engineering the Amiga font file format.
