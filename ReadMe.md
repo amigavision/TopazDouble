@@ -34,7 +34,9 @@ The typeface was lovingly recreated by hand, since there are no obvious ways to 
 
 <img src="Images/BobBurns.gif">
 
-Original typeface design by [Bob Burns] (AmiWest 2016 talk).
+Original Serif (1.x) typeface design by [Bob Burns] (AmiWest 2016 talk).
+
+Original Sans (2.x/3.x) typeface design by [Peter J Cherna]. [Some Amiga History] on this.
 
 The typeface was made by using the excellent [modernized version of the Amiga Font Editor](http://bax.comlab.uni-rostock.de/en/projects/fonted/) by Henryk Richter.
 
@@ -44,3 +46,5 @@ If you find any errors in the conversion, file an issue in the [issue tracker].
 
 [issue tracker]:https://github.com/amigavision/DoubleTopaz/issues
 [Bob Burns]:https://youtu.be/p_A_ZrDaF9w
+[Peter J Cherna]:https://twitter.com/PChernaScala
+[Some Amiga History]:https://www.gregdonner.org/workbench/wb_14_20_explanation.html
