@@ -44,7 +44,7 @@ If you find any errors in the conversion, file an issue in the [issue tracker].
 
 *—Alex Limi* · https://limi.net
 
-[issue tracker]:https://github.com/amigavision/DoubleTopaz/issues
+[issue tracker]:https://github.com/amigavision/TopazDouble/issues
 [Bob Burns]:https://youtu.be/p_A_ZrDaF9w
 [Peter J Cherna]:https://twitter.com/PChernaScala
 [Some Amiga History]:https://www.gregdonner.org/workbench/wb_14_20_explanation.html
