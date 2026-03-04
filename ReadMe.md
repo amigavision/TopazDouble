@@ -6,7 +6,7 @@ This is an Amiga-native recreation of one of the most beautiful and readable 8×
 
 Out of the box, Amiga used a tall (~2:1) resolution — 640×200 (NTSC) or 640×256 (PAL) -- which means that the standard Topaz typeface/font would be half-height if you were using it with resolutions with a pixel aspect ratio closer to 1:1.
 
-For some reason, there has never been an Amiga-native version of a double-height Topaz (at least not that I could find) for use with resolutions with a square (1:1) pixel ratio, so I made one.
+For some reason, there has never been apixel-perfect Amiga-native version of a double-height Topaz (at least not that we could find) for use with resolutions with a square (1:1) pixel ratio, so we made one.
 
 This typeface is ideal for “modern” resolutions like 800×600, 1024×768, classic Amiga resolutions like 640×400 and 640×512 (Hi-Res Interlace) — as well as 16:9 resolutions like 720p and 1080p, which are supported by the MiSTer FPGA Amiga core and RTG graphics implementations.
 
@@ -30,7 +30,7 @@ Copy the contents of the `Fonts` directory to your `FONTS:` assign on the Amiga.
 
 ## Colophon
 
-The typeface was lovingly recreated by hand, since there are no obvious ways to easily scale an Amiga font file to be twice the height, and I didn’t feel like reverse engineering the Amiga font file format.
+The typeface was lovingly recreated by hand, since there are no obvious ways to easily scale an Amiga font file to be twice the height, and we didn’t feel like reverse engineering the Amiga font file format.
 
 <img src="Images/BobBurns.gif">
 
