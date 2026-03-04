@@ -42,7 +42,7 @@ The typeface was made by using the excellent [modernized version of the Amiga Fo
 
 If you find any errors in the conversion, file an issue in the [issue tracker].
 
-*—Alex Limi* · https://limi.net
+*—Alex Limi* · https://amiga.vision
 
 [issue tracker]:https://github.com/amigavision/TopazDouble/issues
 [Bob Burns]:https://youtu.be/p_A_ZrDaF9w
